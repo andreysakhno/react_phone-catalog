@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3364a6e1.css",
-    "main.js": "./static/js/main.dd868c66.js",
+    "main.js": "./static/js/main.e05c79b7.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
@@ -19,18 +19,18 @@
     "static/media/home.svg": "./static/media/home.5b1910eb8273cae981dfa0cc0e37365e.svg",
     "static/media/search.svg": "./static/media/search.f0a1fe2b3786180ab887266e0be48ad4.svg",
     "static/media/heart-filled.svg": "./static/media/heart-filled.32980ba3ab46a2a0558a36e701d4ea7d.svg",
+    "index.html": "./index.html",
     "static/media/close.svg": "./static/media/close.ce3aff2d75219ee265d35ff2403c5c79.svg",
     "static/media/plus.svg": "./static/media/plus.593bd386fc2189f1387cb855883bb57d.svg",
     "static/media/burger-menu-hover.svg": "./static/media/burger-menu-hover.429c6eb31fddbc900c5e4bca9cbd659a.svg",
     "static/media/burger-menu.svg": "./static/media/burger-menu.7bbc35cf4dfc35ec11990e83cf3ae1bf.svg",
     "static/media/arrow.svg": "./static/media/arrow.e0365b318628089c07f2c9ae51801a2f.svg",
     "static/media/minus.svg": "./static/media/minus.b032d81b73c1d3fc7de80c83125768a2.svg",
-    "index.html": "./index.html",
     "main.3364a6e1.css.map": "./static/css/main.3364a6e1.css.map",
-    "main.dd868c66.js.map": "./static/js/main.dd868c66.js.map"
+    "main.e05c79b7.js.map": "./static/js/main.e05c79b7.js.map"
   },
   "entrypoints": [
     "static/css/main.3364a6e1.css",
-    "static/js/main.dd868c66.js"
+    "static/js/main.e05c79b7.js"
   ]
 }
